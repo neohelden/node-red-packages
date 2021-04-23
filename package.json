@@ -1,0 +1,14 @@
+{
+  "name": "node-red-packages",
+  "version": "0.1.0",
+  "description": "Helper repository to scan all Node-RED packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}
