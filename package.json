@@ -2457,7 +2457,6 @@
     "node-red-contrib-fabric-composer": "0.0.5",
     "node-red-contrib-azure-sql": "0.1.1",
     "node-red-contrib-slackbot-tjun": "1.0.4",
-    "node-red-contrib-azure-storage": "0.0.1",
     "node-red-contrib-datawarehouse": "1.1.0",
     "node-red-contrib-json-schema-validator": "0.0.3",
     "node-red-contrib-securedhttp-multipart": "0.0.14",
