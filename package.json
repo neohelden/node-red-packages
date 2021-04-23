@@ -300,7 +300,6 @@
     "node-red-contrib-onesait-platform": "1.0.6",
     "node-red-contrib-aedes": "0.5.1",
     "@mrvik/node-red-contrib-real-exec": "0.1.5",
-    "node-red-contrib-puppeteer-alpine": "1.2.0",
     "node-red-contrib-tado-client": "0.9.6",
     "node-red-contrib-rdkafka-secure": "0.3.0",
     "node-red-contrib-ui-led": "0.4.9",
