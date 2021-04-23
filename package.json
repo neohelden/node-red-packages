@@ -910,7 +910,6 @@
     "node-red-contrib-unit-converter": "0.0.2",
     "node-red-contrib-jwt": "0.1.0",
     "node-red-contrib-ads-read": "1.0.0",
-    "node-red-contrib-db2-for-i": "0.2.1",
     "node-red-contrib-glob": "1.1.0",
     "node-red-contrib-mqtt-aviosys": "1.0.1",
     "red-contrib-loop-energy-meter": "0.1.0",
