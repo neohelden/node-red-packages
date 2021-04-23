@@ -631,7 +631,6 @@
     "node-red-contrib-msnodesql": "0.1.0-alpha.10",
     "node-red-contrib-dl-azure-event-hub": "1.2.6",
     "node-red-contrib-edge-impulse": "0.1.1",
-    "@ybizeul/node-red-contrib-streamdeck-ws": "0.9.1",
     "@particle/node-red-contrib-particle-official": "0.1.6",
     "node-red-contrib-fluttergenerator": "0.0.3",
     "node-red-contrib-edge-trigger": "1.0.0",
