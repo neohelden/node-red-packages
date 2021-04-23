@@ -412,7 +412,7 @@
     "rb-iot-node-red": "1.0.1",
     "node-red-contrib-redplc-module": "1.0.8",
     "node-red-contrib-netfield-websocket": "0.9.9",
-    "node-red-contrib-myq": "0.0.1",
+    "node-red-contrib-myq": "0.0.2",
     "node-red-contrib-binpacking": "1.2.2",
     "node-red-node-aws": "0.2.0",
     "node-red-node-geofence": "0.2.1",
