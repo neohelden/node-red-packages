@@ -13,7 +13,7 @@ async function main() {
       pkg.dependencies[module.id] = module.version
   })
 
-  await fs.writeFile('package2.json', JSON.stringify(pkg, null, 2))
+  await fs.writeFile('package.json', JSON.stringify(pkg, null, 2))
   console.log('Done... All node-red packages have been written to package.json')
   console.log('You should not try to run npm install on it')
   console.log('Might take hours!')
