@@ -1225,7 +1225,7 @@
     "node-red-contrib-vnc": "0.1.5",
     "node-red-contrib-machine-learning-v2": "1.0.9",
     "node-red-contrib-epi-bluetooth": "0.0.11",
-    "node-red-contrib-open-protocol-desoutter": "1.2.4",
+    "node-red-contrib-open-protocol-desoutter": "2.0.1",
     "node-red-contrib-cloudantplus": "0.3.0",
     "node-red-contrib-sparkml": "1.0.0",
     "@phoenixcontactusa/node-red-contrib-tcrouter": "1.1.4",
