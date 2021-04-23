@@ -760,7 +760,6 @@
     "node-red-contrib-grpc": "1.2.1",
     "node-red-contrib-mfrc522-rfid": "1.0.0",
     "node-red-contrib-ayatokura": "1.0.0",
-    "blinds": "0.0.7",
     "casa-corrently": "1.0.53",
     "node-red-node-pushbullet": "0.0.17",
     "node-red-contrib-keyestudio-relay-shield-ks0212": "1.0.1",
