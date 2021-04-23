@@ -2176,7 +2176,6 @@
     "node-red-contrib-nucleus-ladder": "1.1.1",
     "node-red-contrib-hiko": "1.0.0",
     "node-red-contrib-alexa-local": "0.3.24",
-    "node-red-contrib-ibm-maximo-oslc-api": "0.1.4",
     "node-red-contrib-chatwork": "0.0.2",
     "node-red-contrib-esplogin": "1.3.7",
     "node-red-contrib-mios": "0.2.0",
