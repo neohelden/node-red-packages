@@ -1597,7 +1597,6 @@
     "node-red-contrib-googlehome-actions-v2": "0.0.7",
     "red-incorta": "0.1.1",
     "node-red-contrib-minio": "0.1.9",
-    "red-node-incorta": "0.1.1",
     "node-red-contrib-tibbo-ltps-tibbits": "0.0.6",
     "node-red-contrib-mygekko": "1.0.21",
     "node-red-contrib-volkszaehler": "0.3.3",
