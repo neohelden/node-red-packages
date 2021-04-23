@@ -167,7 +167,6 @@
     "node-red-contrib-opendart": "1.0.6",
     "node-red-contrib-hapcan": "2.5.0",
     "node-red-contrib-phonenumbers": "0.9.1",
-    "node-red-contrib-twitter-bot5": "1.0.1",
     "node-red-contrib-twitter-bot4": "1.0.0",
     "node-red-contrib-pydslog2mqtt": "0.0.1",
     "node-red-contrib-deepspeech-stt": "0.4.0",
