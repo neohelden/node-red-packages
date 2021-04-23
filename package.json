@@ -775,7 +775,6 @@
     "node-red-contrib-persist": "1.1.1",
     "node-red-contrib-config": "1.2.1",
     "@chaws/node-red-denon": "0.0.7",
-    "aaazzz": "0.0.1",
     "node-red-contrib-button-events": "1.0.1",
     "node-red-contrib-filemaker": "2.3.1",
     "@itcoordinadora/pg-listen-new": "1.0.2",
