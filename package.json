@@ -396,7 +396,6 @@
     "node-red-contrib-easybotics-gphoto-upload": "0.1.9",
     "node-red-contrib-protobuf": "1.1.0",
     "node-red-contrib-microid-io-board": "1.0.0",
-    "node-red-contrib-anolog-to-digital-converter-raspberry-pi": "0.4.25",
     "node-red-contrib-nordpool-api": "3.0.8",
     "node-red-contrib-renault-ze": "1.2.1",
     "co-api": "1.0.0",
