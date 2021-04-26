@@ -2640,7 +2640,6 @@
     "node-red-contrib-blynk-bridge": "1.0.69",
     "node-red-contrib-mpr121": "1.0.0",
     "node-red-contrib-simple-weekly-scheduler": "0.0.14",
-    "node-red-contrib-odoo-xmlrpc": "0.0.4",
     "node-red-contrib-lifx2": "2.1.0",
     "node-red-contrib-env": "1.0.2",
     "node-red-contrib-helloworld-button": "0.0.1",
