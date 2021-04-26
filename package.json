@@ -1229,7 +1229,6 @@
     "node-red-contrib-mqtt-connection-check": "0.1.2",
     "node-red-contrib-firebase-messaging": "0.4.2",
     "node-red-contrib-skyremote-new": "0.1.2",
-    "node-red-contrib-mobius-flow-base": "2.5.0",
     "node-red-contrib-lyteworx-cluster": "0.1.0-alpha.11",
     "node-red-contrib-filebrowser": "0.0.26",
     "node-red-contrib-trello-functions": "2.13.1",
