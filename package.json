@@ -1252,7 +1252,6 @@
     "@hardwario/node-red-contrib-hardwario-voice": "1.1.4",
     "node-red-contrib-messagebird": "1.1.0",
     "node-red-contrib-conect-plus": "1.0.6",
-    "node-red-contrib-mobius-flow-processing": "1.1.0",
     "node-red-contrib-jexl": "1.0.3",
     "node-red-contrib-bert-tokenizer": "1.0.3",
     "node-red-contrib-oauth1a": "1.0.0",
