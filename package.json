@@ -2268,7 +2268,6 @@
     "node-red-contrib-google-pubsub": "0.1.1",
     "node-red-contrib-grok": "0.0.2",
     "node-red-contrib-grovepi": "0.1.8",
-    "node-red-contrib-ibm-maximo-rest-api": "0.2.0",
     "obs-node-modules": "1.0.0",
     "node-red-contrib-device-stats": "1.1.2",
     "node-red-contrib-regression": "1.0.0",
