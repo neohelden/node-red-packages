@@ -2506,7 +2506,6 @@
     "node-red-contrib-rocrail": "0.0.2",
     "node-red-contrib-http-request-ucg2": "0.2.0",
     "ogema-io": "0.0.2",
-    "node-red-contrib-odoo-xmlrpc-with-filters": "0.0.5",
     "node-red-contrib-blockchain": "0.1.0",
     "node-red-contrib-ble-heart-rate": "0.2.0",
     "node-red-contrib-geobuf": "1.0.0",
