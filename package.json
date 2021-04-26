@@ -1090,7 +1090,6 @@
     "node-red-contrib-open-protocol": "1.0.3",
     "node-red-contrib-cip-ethernet-ip": "1.1.2",
     "base58-nodes": "0.0.8",
-    "node-red-contrib-knx": "0.10.0",
     "node-red-contrib-source-web": "0.0.6",
     "node-red-contrib-eiscp": "0.3.3",
     "node-red-node-ui-etable": "1.0.4",
