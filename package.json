@@ -1071,7 +1071,6 @@
     "node-red-contrib-visualmapper": "0.3.0",
     "node-red-contrib-ftp-server": "0.4.1",
     "node-red-contrib-ui-state-trail": "0.3.1",
-    "node-red-contrib-orion": "4.5.4",
     "node-red-contrib-flogger-now": "1.0.0",
     "node-red-contrib-german-holidays": "1.0.1",
     "node-red-contrib-fitbit": "1.0.6",
